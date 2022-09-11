@@ -1,5 +1,5 @@
 {
-  "name": "npm-ts-template",
+  "name": "npm-template-ts",
   "version": "0.1.0",
   "description": "A template to quickly make new ts npm packages",
   "main": "dist/cjs/index.js",
