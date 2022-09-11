@@ -20,13 +20,13 @@
   ],
   "keywords": [],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/JakobOffersen/npm-ts-template",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/JakobOffersen/npm-ts-template"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/JakobOffersen/npm-ts-template/issues"
   },
   "dependencies": {},
   "devDependencies": {
